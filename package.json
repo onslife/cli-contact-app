@@ -1,0 +1,15 @@
+{
+  "name": "cli-contact-app",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alfons pia",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "chalk": "^4.1.0"
+  },
+  "type": "module"
+}
