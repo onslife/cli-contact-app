@@ -7,9 +7,18 @@
   },
   "author": "Alfons pia",
   "license": "ISC",
-  "description": "",
+  "description": "Belajar membuat aplikasi pengolahan data kontak",
   "dependencies": {
     "chalk": "^4.1.0"
   },
-  "type": "module"
+  "type": "module",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onslife/cli-contact-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/onslife/cli-contact-app/issues"
+  },
+  "homepage": "https://github.com/onslife/cli-contact-app#readme"
 }
