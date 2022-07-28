@@ -82,7 +82,6 @@ function table(input) {
     console.log(result);
 };
 
-// await opening();
 const app = async (data) => {
     const pilihan = await tanya()
     if (pilihan == '1') {
